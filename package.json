@@ -1,6 +1,6 @@
 {
   "name": "@glory/version",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "upgrade static version",
   "main": "build/bundle.min.js",
   "scripts": {
