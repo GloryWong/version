@@ -1,5 +1,5 @@
 {
-  "name": "version",
+  "name": "@glory/version",
   "version": "1.0.0",
   "description": "upgrade static version",
   "main": "build/bundle.min.js",
@@ -15,6 +15,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GloryWong/version/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "homepage": "https://github.com/GloryWong/version#readme",
   "dependencies": {},
