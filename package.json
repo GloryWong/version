@@ -20,12 +20,13 @@
     "access": "public"
   },
   "homepage": "https://github.com/GloryWong/version#readme",
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/preset-env": "^7.8.7",
-    "rollup": "^2.0.2",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-uglify": "^6.0.4"
+  },
+  "dependencies": {
+    "rollup": "^2.50.5"
   }
 }
